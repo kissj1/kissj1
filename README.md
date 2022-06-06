@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kissj1
-- 👀 I’m interested in my Grandchildren,Photography, Gardening, and IDS!
+- 👀 I’m interested in my grandchildren, photography, gardening, and IDS!
 - 🌱 I’m currently learning moe about GitHub, Jira and UAC!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kissj1@nationwide.com
